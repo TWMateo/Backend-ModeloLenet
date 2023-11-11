@@ -14,7 +14,7 @@ model = load_model('models/modelo_cnn.h5')
 
 @app.route('/')
 def index():
-    return 'Api Modelo Telnet'
+    return render_template('index.html')
 
 @app.route('/predict', methods=['POST'])
 def predict():
