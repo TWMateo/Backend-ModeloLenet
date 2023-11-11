@@ -1,3 +1,2 @@
-venv/lib/python3.10/site-packages/pip/_vendor/urllib3/util/__pycache__/wait.cpython-310.pyc
-lib/
-requirements.txt
+/venv/
+pro.txt
