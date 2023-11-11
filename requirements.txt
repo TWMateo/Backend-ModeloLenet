@@ -8,9 +8,9 @@ click
 Flask
 Flask-Cors
 flatbuffers
-gast
+gast==0.2.1 
 google-auth
-google-auth-oauthlib
+google-auth-oauthlib==0.4.1
 google-pasta
 grpcio
 h5py
@@ -27,7 +27,7 @@ oauthlib
 opencv-python
 opt-einsum
 packaging
-protobuf
+protobuf==3.9.2
 pyasn1
 pyasn1-modules
 requests
@@ -37,7 +37,7 @@ six
 tensorboard
 tensorboard-data-server
 tensorflow
-tensorflow-estimator
+tensorflow-estimator==2.11.0
 tensorflow-io-gcs-filesystem
 termcolor
 typing_extensions
