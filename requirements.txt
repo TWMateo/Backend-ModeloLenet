@@ -35,7 +35,7 @@ requests-oauthlib
 rsa
 six
 tensorboard
-tensorboard-data-server
+tensorboard-data-server==0.6.0
 tensorflow
 tensorflow-estimator==2.11.0
 tensorflow-io-gcs-filesystem
